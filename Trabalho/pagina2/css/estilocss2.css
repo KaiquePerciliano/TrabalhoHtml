@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+    color: #31c41d;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 350%;
+}
+
+.listmenu {
+    list-style: none;
+    display: inline;
+    padding: 7%;
+    border: none;
+    border-color: none;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;    
+}
+
+.titulointro{
+    text-align: center;
+}
+
+.html{
+    text-align: center;
+}
+
+.css{
+    text-align: center;
+}
+
+.taghtml{
+    text-align: center;
+}
+
+.estruturahtml{
+    text-align: center;
+}
+.exemplohtml{
+    text-align: center;
+}
+
+.conclusaotag{
+    text-align: center;
+}
+.CSS{
+    text-align: center;
+}
+.usadoparacss{
+    text-align: center;
+}
+
+.conclusaocss{
+    text-align: center;
+}
+
+.exemplocod{
+    text-align: center;
+}

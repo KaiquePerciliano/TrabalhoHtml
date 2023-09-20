@@ -1,0 +1,41 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: #31c41d;
+    overflow: hidden;
+    text-decoration: none;
+}
+
+.nome {
+    text-align: center;
+    font-size: 350%;
+}
+
+
+
+section {
+    margin: auto;
+    text-align: center;
+}
+
+.listmenu {
+    list-style: none;
+    display: inline;
+    padding: 4%;
+    border: none;
+    border-color: none;
+    text-decoration: none;
+}
+
+.linkmenu {
+    text-decoration: none;
+}
+
+.linkmenu:hover {
+    background-color: black;
+}
+
+
+#formacao {
+    list-style: none;
+}
